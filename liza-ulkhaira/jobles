@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <div class="nav-brand">
+                <h1>Jobless</h1>
+            </div>
+            <div class="menu">
+                <a class="menu-item menu-item-active" href="">home</a>
+                <a class="menu-item" href="">Discover</a>
+                <a class="menu-item" href="">Post a job</a>
+                <a class="menu-item" href="">Contact us</a>
+            </div>
+            <div class="nav-ctas">
+                <a class="sign-up" href="">sign-up</a>
+            </div>
+        </div>
+    </nav>
+</body>
+
+<
